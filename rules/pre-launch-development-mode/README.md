@@ -8,7 +8,7 @@ A comprehensive rule for AI-assisted development that enforces enterprise-grade 
 
 | Setting | Value |
 |---------|-------|
-| **Model** | Claude Opus 4 |
+| **Model** | Claude Opus 4.6 |
 | **Thinking** | Enabled, 1M token budget |
 
 ## What This Rule Does
